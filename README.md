@@ -1,2 +1,2 @@
-# Machine Learning Projects
+# Logistic Regression 
 #Author: Ahmad Nawaz
