@@ -1,2 +1,2 @@
-# Logistic Regression 
+# Loan Approval Predictor 
 #Author: Ahmad Nawaz
