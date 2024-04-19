@@ -4,13 +4,13 @@
 
 ##Tools and Libraries Used Python: A versatile programming language, ideal for data manipulation and analysis. Scikit Learn: used in Machine Learning Very handy tool. Pandas: A powerful library for data manipulation and analysis, used for data cleaning, transformation, and statistical analysis. Matplotlib: A plotting library for creating static, interactive, and animated visualizations in Python. NumPy: A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. 
 
-##Preprocessing of Data
+**##Preprocessing of Data:**
 Data Preparation: The dataset was cleaned by removing missing values and duplicates, ensuring the integrity of subsequent analyses.
 
 Variable Identification: We identified variable types within the dataset, distinguishing between numerical and categorical data, and encoded was performed.
 
-##Visulization of Data
-Bar Graph: Illustrated the frequency of purpose of loans.
+**##Visulization of Data
+** Bar Graph: Illustrated the frequency of purpose of loans.
 Pie Chart: Showcased the distribution of types of loan as a percentage of the total.
 Central Tendency Analysis: Computed the average interest rate, providing an insight into the general interest trend in the dataset.
 
@@ -21,7 +21,7 @@ Interquartile Range (IQR) and Outliers: Identified the IQR for numerical columns
 Histograms and Skewness: Generated histograms for all numerical columns and calculated skewness to understand the distribution shapes and asymmetry in the data.
 
 
-##Outcomes and Insights
+**##Outcomes and Insights**
 The analysis revealed the distribution of loans and the prevalence of different variables in the dataset.
 We calculated the average interest rate, providing valuable insights into the market's pricing structure.
 The variance and standard deviation calculations highlighted the variability and dispersion in interest rate, purpose, and other numerical factors.
